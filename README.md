@@ -36,7 +36,7 @@ The Real-Time Chat App is a web-based application that enables users to communic
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Girjesh-Dhodaria/real-time-chat-app.git
+   git clone https://github.com/priyanshuranjank/real-time-chat-app.git
    cd real-time-chat-app
    ```
 
